@@ -1,5 +1,6 @@
 <?php
 namespace Mediashare\PingIt;
+use Mediashare\Kernel\Kernel;
 
 Class PingIt {
     public $url = "http://pingit.marquand.pro";
