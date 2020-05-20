@@ -1,0 +1,20 @@
+{
+    "name": "mediashare/pingit",
+    "description": "Library for interact with PingIt API",
+    "type": "library",
+    "require": {
+        "mediashare/kernel": "^0.4.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thibault Marquand - Mediashare",
+            "email": "mediashare.supp@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Mediashare\\PingIt\\": "src/"
+        }
+    }
+}
