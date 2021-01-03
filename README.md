@@ -1,4 +1,6 @@
 # PingIt
+**[DEPRECATED] Go to [Gitlab Project](https://gitlab.marquand.pro/MarquandT/ping-it-sdk)**
+
 Interact with PingIt API with PHP Library.
 # Installation
 ```bash
